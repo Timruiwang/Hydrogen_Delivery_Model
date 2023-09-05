@@ -1,3 +1,8 @@
+"""
+Created on Tue Aug 15 2023
+
+@author: Ruiyang Wang
+"""
 from cost_functions import calc_costs, get_min_cost
 import pandas as pd
 

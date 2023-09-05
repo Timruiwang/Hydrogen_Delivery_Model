@@ -1,3 +1,8 @@
+"""
+Created on Tue Aug 15 23:23:43 2023
+
+@author: Ruiyang Wang
+"""
 import math
 import matplotlib.pyplot as plt
 import numpy as np
